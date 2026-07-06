@@ -14,3 +14,8 @@ int main() {
 
     return 0;
 }
+
+//输出：
+  Tom T
+  Jack J
+  Alice A
